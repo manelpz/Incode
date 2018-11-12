@@ -1,0 +1,6 @@
+framework module Pods_incodeTest {
+  umbrella header "Pods-incodeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
